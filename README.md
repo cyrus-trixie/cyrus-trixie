@@ -6,7 +6,6 @@
 
 ---
 
-🧠 **Digital renegade** building software that breaks the mold  
 🎨 **Frontend sorcerer** — React ⚛️ + Tailwind 💅 = magic  
 🎮 Gamer at heart, coder by fire, always pushing pixels with power  
 📡 Currently manifesting futuristic UIs + chaotic energy on the web  
