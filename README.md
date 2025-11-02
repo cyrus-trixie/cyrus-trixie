@@ -1,4 +1,4 @@
-<h1 align="center">Yo I'm Cyrus Ngugi 😈</h1>
+<h1 align="center">Yo I'm Cyrus Ngugi </h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/c5/ce/e7/c5cee72c08fe93b45043921c07fcacfb.jpg" width="250" />
@@ -6,7 +6,7 @@
 
 ---
 
-🎨 **Frontend sorcerer** — React ⚛️ + Tailwind 💅 = magic  
+ **Frontend sorcerer** — React ⚛️ + Tailwind 💅 = magic  
 🎮 Gamer at heart, coder by fire, always pushing pixels with power  
 📡 Currently manifesting futuristic UIs + chaotic energy on the web  
 🛠️ Stack: `React` • `TailwindCSS` • `Node.js` • `Express` • `Mongo` • `Vite`  
