@@ -10,7 +10,7 @@
 Focused on clean design, smooth performance, and real-world functionality.  
 Always down to experiment and push what front-end can do.  
 
-🛠️ Tech Stack: `React` • `React Native` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Vite`
+🛠️ Tech Stack: `React` • `React Native` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Vite`  • `Adobe Photoshop` • `Supabase` • `Node.js` • `NativeWind` 
 
 ---
 
