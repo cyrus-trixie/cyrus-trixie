@@ -6,20 +6,24 @@
 
 ---
 
-**React lover.** I build for both **web** and **mobile** using React and React Native.  
-Focused on clean design, smooth performance, and real-world functionality.  
-Always down to experiment and push what front-end can do.  
+**Full-stack developer.** I build modern web and mobile applications, from polished frontends to scalable backends and APIs.
 
-🛠️ Tech Stack: `React` • `Firebase` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Vite` • `Supabase`• `MYSQL`• `Git`
+I work across the stack with **React, React Native, Node.js, Express, databases, and cloud services**, while also building and customizing **WordPress** solutions when the project calls for it.
+
+I enjoy turning ideas into functional products, solving messy technical problems, and making things that are fast, clean, and actually useful.
+
+🛠️ **Tech Stack:** `JavaScript` • `TypeScript` • `React` • `React Native` • `Node.js` • `Express` • `Next.js` • `TailwindCSS` • `PHP` • `WordPress` • `MySQL` • `MongoDB` • `Firebase` • `Supabase` • `Git`
 
 ---
 
 ### Tools I Use
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,nodejs,express,js,ts,git,github,vscode,firebase,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,js,ts,tailwind,php,wordpress,mysql,mongodb,firebase,supabase,git,github,vscode" />
 
 ---
 
 ### Links
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://cyrusngugii.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:cmuiruringugi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge)](https://github.com/cyrus-trixie)
@@ -28,6 +32,7 @@ Always down to experiment and push what front-end can do.
 ---
 
 ### Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyrus-trixie&show_icons=true&theme=radical&hide=prs" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrus-trixie&layout=compact&theme=radical" height="170"/>
